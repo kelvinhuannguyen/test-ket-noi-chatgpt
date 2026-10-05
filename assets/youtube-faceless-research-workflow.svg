@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">YouTube Faceless Trend Research workflow</title>
+  <desc id="desc">Professional infographic showing the path from market signals through validation and scoring to a quality-assured Excel deliverable.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08172e"/>
+      <stop offset="0.55" stop-color="#0d3150"/>
+      <stop offset="1" stop-color="#075c64"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d3ff"/>
+      <stop offset="1" stop-color="#61f2b5"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1ed790"/>
+      <stop offset="1" stop-color="#0da86c"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b9eaff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020814" flood-opacity="0.38"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="560" rx="28" fill="url(#grid)"/>
+  <circle cx="1385" cy="88" r="190" fill="#39e6b2" opacity="0.07"/>
+  <circle cx="127" cy="506" r="210" fill="#2e8cff" opacity="0.08"/>
+
+  <g transform="translate(86 74)">
+    <rect width="76" height="54" rx="16" fill="#ff365f" filter="url(#glow)"/>
+    <path d="M31 15 L55 27 L31 39 Z" fill="#fff"/>
+    <text x="98" y="24" fill="#7fe7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">RESEARCH SYSTEM</text>
+    <text x="0" y="111" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800">YouTube Faceless</text>
+    <text x="0" y="165" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800">Trend Research</text>
+    <text x="0" y="211" fill="#c9dbea" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Signals → validation → opportunity → delivery</text>
+
+    <g transform="translate(0 270)">
+      <rect width="440" height="124" rx="22" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.14"/>
+      <g transform="translate(24 22)">
+        <circle cx="38" cy="38" r="38" fill="#38cfff" fill-opacity="0.16"/>
+        <path d="M18 48 C27 28 34 37 42 22 C50 37 56 16 64 24" fill="none" stroke="#65dcff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="64" cy="24" r="5" fill="#61f2b5"/>
+      </g>
+      <text x="122" y="48" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Evidence before ranking</text>
+      <text x="122" y="79" fill="#b9d1e2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">No invented volume or growth metrics</text>
+      <text x="122" y="104" fill="#b9d1e2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Long-tail, monetization &amp; policy filters</text>
+    </g>
+  </g>
+
+  <g transform="translate(650 78)" filter="url(#shadow)">
+    <rect width="910" height="404" rx="30" fill="#071526" fill-opacity="0.82" stroke="#9feaff" stroke-opacity="0.16"/>
+    <text x="44" y="56" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">REPEATABLE PIPELINE</text>
+    <text x="744" y="56" fill="#83a9bd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">9 quality gates</text>
+
+    <path d="M122 160 H302 M378 160 H558 M634 160 H786" stroke="#48cfe2" stroke-width="4" stroke-dasharray="8 10" opacity="0.7"/>
+    <path d="M122 300 H302 M378 300 H558 M634 300 H786" stroke="#48cfe2" stroke-width="4" stroke-dasharray="8 10" opacity="0.7"/>
+
+    <g transform="translate(44 101)">
+      <rect width="156" height="118" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <circle cx="78" cy="40" r="23" fill="#1b4968"/>
+      <path d="M78 20 C62 20 54 31 54 42 C54 59 78 73 78 73 C78 73 102 59 102 42 C102 31 94 20 78 20 Z" fill="none" stroke="#6adeff" stroke-width="3"/>
+      <circle cx="78" cy="41" r="7" fill="#61f2b5"/>
+      <text x="78" y="91" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Brief</text>
+    </g>
+    <g transform="translate(224 101)">
+      <rect width="156" height="118" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <path d="M37 61 C53 38 65 52 78 32 C91 51 104 24 120 36" fill="none" stroke="#6adeff" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="120" cy="36" r="5" fill="#61f2b5"/>
+      <text x="78" y="91" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Signals</text>
+    </g>
+    <g transform="translate(404 101)">
+      <rect width="156" height="118" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <circle cx="67" cy="43" r="24" fill="none" stroke="#6adeff" stroke-width="4"/>
+      <line x1="84" y1="60" x2="104" y2="80" stroke="#61f2b5" stroke-width="6" stroke-linecap="round"/>
+      <path d="M56 43 L64 51 L80 33" fill="none" stroke="#61f2b5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="78" y="91" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Validate</text>
+    </g>
+    <g transform="translate(584 101)">
+      <rect width="156" height="118" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <path d="M42 67 H114 M51 67 V51 M71 67 V35 M91 67 V43 M111 67 V25" stroke="#6adeff" stroke-width="7" stroke-linecap="round"/>
+      <text x="78" y="91" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Score</text>
+    </g>
+    <g transform="translate(764 101)">
+      <rect width="102" height="118" rx="22" fill="#102c45" stroke="#61f2b5" stroke-opacity="0.75"/>
+      <path d="M51 19 L79 30 V50 C79 67 67 78 51 85 C35 78 23 67 23 50 V30 Z" fill="#1e745f" fill-opacity="0.55" stroke="#61f2b5" stroke-width="3"/>
+      <path d="M38 51 L47 60 L66 40" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="51" y="105" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Filter</text>
+    </g>
+
+    <g transform="translate(44 253)">
+      <rect width="156" height="104" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <text x="78" y="43" text-anchor="middle" fill="#6adeff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">#1</text>
+      <text x="78" y="75" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Rank</text>
+    </g>
+    <g transform="translate(224 253)">
+      <rect width="156" height="104" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <path d="M47 27 H109 M47 44 H99 M47 61 H84" stroke="#6adeff" stroke-width="5" stroke-linecap="round"/>
+      <text x="78" y="86" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Deduplicate</text>
+    </g>
+    <g transform="translate(404 253)">
+      <rect width="156" height="104" rx="22" fill="#102c45" stroke="#31caff" stroke-opacity="0.55"/>
+      <path d="M49 26 H107 V67 H49 Z" fill="none" stroke="#6adeff" stroke-width="4"/>
+      <path d="M62 39 L70 47 L86 31 M62 58 L70 66 L86 50" fill="none" stroke="#61f2b5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="78" y="88" text-anchor="middle" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">QA</text>
+    </g>
+    <g transform="translate(584 253)">
+      <rect width="282" height="104" rx="22" fill="url(#sheet)"/>
+      <g transform="translate(28 18)">
+        <rect width="58" height="68" rx="9" fill="#fff" fill-opacity="0.94"/>
+        <path d="M13 19 H45 M13 32 H45 M13 45 H45 M13 58 H45 M25 13 V62 M39 13 V62" stroke="#18aa72" stroke-width="2" opacity="0.8"/>
+      </g>
+      <text x="108" y="43" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Excel delivery</text>
+      <text x="108" y="72" fill="#eafff7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Exact schema • ready to use</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1599" height="559" rx="27.5" fill="none" stroke="#a7f3ff" stroke-opacity="0.16"/>
+</svg>

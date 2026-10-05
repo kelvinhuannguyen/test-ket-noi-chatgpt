@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Faceless Trend Research"
+  short_description: "Rank policy-safe YouTube Faceless niches"
+  default_prompt: "Use $researching-youtube-faceless-topics to research ranked YouTube Faceless niches for my target market and date range."
